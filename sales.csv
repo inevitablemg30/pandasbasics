@@ -1,0 +1,11 @@
+Person_ID,Name,Region,Product,Units_Sold,Sales_Amount (?),Month
+1,Person A,North,Laptop,12,480000,January
+2,Person B,South,Headphones,35,70000,January
+3,Person C,East,Smartphone,18,270000,January
+4,Person D,West,Tablet,10,150000,January
+5,Person E,North,Keyboard,40,40000,January
+6,Person F,East,Monitor,8,96000,January
+7,Person G,South,Laptop,5,200000,January
+8,Person H,West,Mouse,60,30000,January
+9,Person I,North,Power Bank,30,45000,January
+10,Person J,South,Smartwatch,15,150000,January
